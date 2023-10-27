@@ -1,4 +1,7 @@
 [submodule "secret-word"]
 	path = SECRET_WORD/secret-word
 	url = https://github.com/gustagt/secret-word
-
+	
+[submodule "miniblog"]
+	path = MINI_BLOG/miniblog
+	url = https://github.com/gustagt/miniblog
