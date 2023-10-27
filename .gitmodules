@@ -1,3 +1,4 @@
-[submodule "subdiretorio"]
+[submodule "secret-word"]
 	path = SECRET_WORD/secret-word
 	url = https://github.com/gustagt/secret-word
+
